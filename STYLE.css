@@ -1,0 +1,42 @@
+
+
+body,
+html{
+	width: 100%;
+	height: 100%;
+	font-family: montserrat;
+	 background: url(https://img.etimg.com/thumb/msid-70852316,width-650,imgsize-285730,,resizemode-4,quality-100/macbook-pro-the-latest-gadget-threat-to-airlines-globally.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.btn-primary{
+	    padding: .5rem 1rem;
+	    background-color: red;
+	    border-color: red;
+	    border-radius: 300px;
+	}
+	.btn-primary:hover 
+	{
+         background-color: black;
+	    border-color: black;      
+	}
+	.space{
+		height: 9em;
+	}
+h1{
+	font-size: 3.2em;
+	text-transform: uppercase;
+	color: white;
+
+}
+hr
+{
+	border-width: 3px;
+	border-color:red;
+	max-width: 3em;
+
+
+}
